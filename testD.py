@@ -1,1 +1,0 @@
-print("Testowy Print Dawida")
